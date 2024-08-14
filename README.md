@@ -6,7 +6,7 @@
 
 - 🤓 Person who loves music & travel.
 
-- 👽 Coding: Erlang, Elixir, Delphi, Golang, Dart.
+- 👽 Coding: Erlang, Elixir, Delphi, Golang, C/C++, Dart.
 
 - 🗺️ Location: 🇻🇳 Vietnam.
 

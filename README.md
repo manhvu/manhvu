@@ -1,6 +1,6 @@
 # Manh Vu
 
-<img src="images/ManhVu.jpg" alt="drawing" width="180" height="180" align="right"/>
+<img src="images/ManhVu.jpg" alt="drawing" width="200" height="200" align="right"/>
 
 - 👻 Hi, I’m Manh.
 
@@ -9,6 +9,10 @@
 - 👽 Coding: Erlang, Elixir, Delphi, Golang, Dart.
 
 - 🗺️ Location: 🇻🇳 Vietnam.
+
+- 🌃 City: Ho Chi Minh city.
+
+- 🏠 Hometown: Ha Long city.
 
 ## Social networking
 

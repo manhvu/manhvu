@@ -16,7 +16,7 @@
 
 ## Social networking
 
-[<img href="https://dev.to/manhvanvu" alt="Dev.to" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"/>](https://dev.to/manhvanvu/)
+[Dev.to](https://dev.to/manhvanvu/)
 
 [<img href="https://www.linkedin.com/in/vuvanmanh123/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vuvanmanh123/)
 

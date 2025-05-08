@@ -6,7 +6,7 @@
 
 - 🤓 Person who loves music & travel.
 
-- 👽 Coding: Elixir, Erlang, Dart, Golang, Delphi(deprecated) C/C++(deprecated).
+- 👽 Coding: Elixir(Frontend, backend, AI, distributed system), Erlang(Telecom system), Dart(Flutter), Golang(backend, high performance system), Delphi(deprecated) C/C++(deprecated).
 
 - 🗺️ Location: 🇻🇳 Vietnam.
 
